@@ -1,0 +1,6 @@
+interface:
+  display_name: "PPT论证与视觉制作"
+  short_description: "梳理论证与素材，按关系选择版式，制作信息丰富、可追溯且清晰的PPT"
+  default_prompt: "请用 $presentation-craft 先盘点已知与缺失输入，只询问阻塞制作的关键问题；版式不明确时先给候选线框，再确认内容母稿、视觉模板、页面清单、证据素材、表达边界和交付要求，参考案例与反例完成正式PPT和预览；如有专用模板，再加载对应模板 skill。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Organ-chip BP template adapter"
+  short_description: "Apply an authorized organ-chip BP visual template while preserving evidence and editability"
+  default_prompt: "Use $artifact-template-bp together with $presentation-craft. First identify the user-provided template and its role, then preserve its visual system while producing an editable, reviewable deck."
+policy:
+  allow_implicit_invocation: true
