@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.0 — 2026-10-08
+
+- `presentation-craft` 更新为 1.3.0，新增 12 类通用表述规范及改写案例。
+- 明确避免无必要的反差句、关键词拼接、孤立数字和审计式正文；保留必要否定、引用与事实限制。
+- Added wording guidance, before/after examples, and links from the skill entry point and bilingual READMEs.
+
 ## 0.1.0 — 2026-10-04
 
 - 发布通用 `presentation-craft` Skill；

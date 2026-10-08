@@ -2,7 +2,7 @@
 name: presentation-craft
 description: "制作或大幅完善内容丰富、有来源依据的PPT/BP、科研与技术演示稿；用于梳理论证、复用真实素材、选择关系准确的版式及检查高信息密度页面。与当前presentations技能配合，不负责替换用户模板；孤立的文字或位置微调无需启动完整流程。"
 metadata:
-  version: "1.2.0"
+  version: "1.3.0"
 ---
 
 # PPT论证、素材与排版方法
@@ -15,6 +15,7 @@ metadata:
 
 - 开始制作前先读 [输入清单](references/preflight-inputs.md)，确认内容母稿、视觉真源、页面范围、证据素材、边界和交付格式；
 - 投资人 BP、商业方案或高信息密度演示：读取 [投资人可读演示稿](references/investor-readable-deck.md)。
+- 撰写、压缩或审阅上屏文字时，读取 [表述规范与改写案例](references/wording-and-examples.md) 的相关类别：直接陈述，正文写完整意思，数字解释含义，准确区分主体与状态；避免无必要的“不是……而是……”和审计式旁白。
 - 需要选择构图、学习好坏案例或做视觉评审：读取 [版式案例与反例库](references/visual-casebook.md)。
 - 使用器官芯片 BP 红灰母版：额外加载 `artifact-template-bp`，不要把其项目专属规则当成通用规则。
 

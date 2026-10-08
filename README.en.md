@@ -121,6 +121,8 @@ The casebook covers covers, market change, structural pain points, definitions, 
 
 Start with:
 
+- [`wording-and-examples.md`](skills/presentation-craft/references/wording-and-examples.md): 12 categories of Chinese slide-copy guidance with before/after examples, covering direct statements, complete sentences, meaningful numbers, terminology, review commentary, and claim boundaries.
+
 - [`investor-readable-deck.md`](skills/presentation-craft/references/investor-readable-deck.md)
 - [`visual-casebook.md`](skills/presentation-craft/references/visual-casebook.md)
 - [`cases.md`](skills/presentation-craft/references/cases.md)
@@ -161,6 +163,7 @@ Common anti-patterns include isolated giant numbers, mechanical card grids, arro
 | General entry point | `skills/presentation-craft/SKILL.md` | General PPT production entry point |
 | Preflight inputs | `skills/presentation-craft/references/preflight-inputs.md` | Identify missing inputs before production |
 | Investor-readable deck | `skills/presentation-craft/references/investor-readable-deck.md` | Copy, numbers, and hierarchy |
+| Wording and examples | `skills/presentation-craft/references/wording-and-examples.md` | 12 wording categories, examples, and exceptions |
 | Visual casebook | `skills/presentation-craft/references/visual-casebook.md` | Good and bad layout patterns |
 | Template adapter | `skills/artifact-template-bp/SKILL.md` | Organ-chip BP template adaptation |
 | Template checklist | `skills/artifact-template-bp/references/bp-production-checklist.md` | Version, asset, render, and delivery gates |

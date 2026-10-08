@@ -158,6 +158,8 @@ presentation-craft
 
 推荐先读：
 
+- [`wording-and-examples.md`](skills/presentation-craft/references/wording-and-examples.md)：12 类表述规范与改写前后案例，涵盖直接陈述、完整短句、数字含义、术语、审计式旁白及事实边界。
+
 - [`investor-readable-deck.md`](skills/presentation-craft/references/investor-readable-deck.md)
 - [`visual-casebook.md`](skills/presentation-craft/references/visual-casebook.md)
 - [`cases.md`](skills/presentation-craft/references/cases.md)
@@ -200,6 +202,7 @@ presentation-craft
 | 通用入口 | `skills/presentation-craft/SKILL.md` | 通用 PPT 制作入口 |
 | 输入清单 | `skills/presentation-craft/references/preflight-inputs.md` | 开始制作前识别缺失输入 |
 | 投资人可读规则 | `skills/presentation-craft/references/investor-readable-deck.md` | 文案、数字和阅读层级 |
+| 表述规范与改写案例 | `skills/presentation-craft/references/wording-and-examples.md` | 12 类措辞规则、案例和适用例外 |
 | 版式案例库 | `skills/presentation-craft/references/visual-casebook.md` | 好坏案例和反例 |
 | 模板适配器 | `skills/artifact-template-bp/SKILL.md` | 器官芯片 BP 模板适配 |
 | 模板门禁 | `skills/artifact-template-bp/references/bp-production-checklist.md` | 版本、素材、渲染和交付检查 |
